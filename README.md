@@ -1,1 +1,2 @@
-# my-own-game-zombie-shooter-
+# staticSquare
+A static square made using Matter.js physics engine
